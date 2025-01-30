@@ -1,0 +1,5 @@
+cd "C:\Git Explanation Folder\samplerepo"
+echo "Hello, Git!" > README.md  # Creates a README file (for PowerShell)
+git add .
+git commit -m "Initial commit"
+git push origin main  # Use 'master' if the default branch is master
